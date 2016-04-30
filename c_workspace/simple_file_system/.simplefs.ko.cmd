@@ -1,0 +1,1 @@
+cmd_/home/jie/Documents/Workspace/c_workspace/simple_file_system/simplefs.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jie/Documents/Workspace/c_workspace/simple_file_system/simplefs.ko /home/jie/Documents/Workspace/c_workspace/simple_file_system/simplefs.o /home/jie/Documents/Workspace/c_workspace/simple_file_system/simplefs.mod.o

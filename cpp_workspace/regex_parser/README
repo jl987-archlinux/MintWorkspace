@@ -1,0 +1,4 @@
+
+This project allows one to enter a regular expression and it will be passed to
+a NFA and then to a DFA.
+
